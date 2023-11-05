@@ -22,7 +22,7 @@ In this project, we utilized our Python skills to conduct social media analysis 
 
 ### Project Deliverables:
 
-A Python script for data collection from social media platforms, with a focus on Twitter.
+A Python script for data collection from social media platforms, with a focus on Twitter. \n
 A clean and structured dataset of 10,000 tweets mentioning "SPY X FAMILY."
 Word cloud visualizations illustrating the most frequently mentioned words.
 Sentiment analysis results, including the proportion of positive, negative, and neutral tweets.
