@@ -22,9 +22,14 @@ In this project, we utilized our Python skills to conduct social media analysis 
 
 ### Project Deliverables:
 
-A Python script for data collection from social media platforms, with a focus on Twitter. \n
+A Python script for data collection from social media platforms, with a focus on Twitter. 
+
 A clean and structured dataset of 10,000 tweets mentioning "SPY X FAMILY."
+
 Word cloud visualizations illustrating the most frequently mentioned words.
+
 Sentiment analysis results, including the proportion of positive, negative, and neutral tweets.
+
 A project report summarizing the insights gained and the sentiment of user feedback regarding the second season of "SPY X FAMILY."
+
 By conducting this social media analysis, we aimed to provide valuable insights for fans and creators of the animated series, as well as for anyone interested in understanding the public reception of "SPY X FAMILY" season two. Our project served as an example of how data analysis can extract meaningful information from the vast world of social media discussions.
